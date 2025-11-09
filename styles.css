@@ -1,0 +1,21 @@
+body{
+    background-color: #595547;  
+    font-family: Arial, Helvetica, sans-serif;  
+}
+a{
+    color: #f94e4c;
+}
+h1{
+    color: #9fc2f8;
+    font-weight: 500;
+}
+h1:first-of-type{
+    font-size: 48px;
+    font-weight: 700;
+}
+p, ul, ol, label{
+    color: #fdfdf6;
+}
+b{
+    color: yellow;
+}
